@@ -1,0 +1,112 @@
+html, body {
+ padding-top: 30px;
+/*
+ background-color: #FFDDFF;
+ color: #333333;
+*/
+}
+
+.fb-label {
+  display: block;
+  padding: 10px;
+}
+
+.alert-news {
+  background-color: #FFBBFF;
+  border-color: #DA70D6;
+}
+
+.alert-news	, .alert-news .alert-heading {
+  color: #333333;
+}
+*/
+/*======================================================*/
+
+/* .intro {
+  padding: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+*/
+
+
+/* .triona-unit {
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  *zoom: 1;
+  background-color: #DDA0DD;
+  margin-bottom: 5px;
+  padding: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.triona-unit h1 {
+  margin-bottom: 0;
+  font-size: 60px;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+.triona-unit p {
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 27px;
+}
+
+.navbar {
+  overflow: visible;
+  margin-bottom: 18px;
+}*/
+/*
+.navbar-inner-color {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #805888;
+  background-image: -moz-linear-gradient(top, #8B008B, #DDA0DD);
+  background-image: -ms-linear-gradient(top, #8B008B, #DDA0DD);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#8B008B), to(#DDA0DD));
+  background-image: -webkit-linear-gradient(top, #8B008B, #DDA0DD);
+  background-image: -o-linear-gradient(top, #8B008B, #DDA0DD);
+  background-image: linear-gradient(top, #8B008B, #DDA0DD);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8B008B', endColorstr='#DDA0DD', GradientType=0);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1); 
+}
+*/
+/*.navbar-inner-color .a {
+  margin-bottom: 0;
+  line-height: 50px;
+  color: #ffffff;
+}*/
+/*
+.navbar-inner-color .nav > li > a {
+  float: none;
+  padding: 10px 10px 11px;
+  line-height: 19px;
+  color: #333333;
+  text-decoration: none;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.navbar-inner-color .brand {
+  float: left;
+  display: block;
+  padding: 8px 20px 12px;
+  margin-left: -20px;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1;
+  color: #333333;
+}
+
+.thumbnails > li {
+  background-color: #FFBBFF;
+} */

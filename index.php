@@ -1,4 +1,4 @@
-<?php  include "/skin/header.php" ?>
+<?php  include "skin/header.php" ?>
 
 			<div class="container">
 <!--
@@ -92,7 +92,7 @@
 					</div> <!-- span8 -->
 					
 					<div class="span4">
-						<div class="alert alert-block">
+						<div class="well">
 
 
 						<div class="fb-like" data-href="http://www.facebook.com/craftery.ie" data-send="false" data-layout="button_count" data-width="30" data-show-faces="false">
@@ -100,10 +100,10 @@
 
 						</div>
 						
-						<img src="images/etsy.jpg">
+						
 						</div>
-						<div class="alert alert-block">
-							<h4 class="alert-heading">News</h4>
+						<div class="well">
+							<h4 >News</h4>
 							<p>
 								I've taken a year out to go travel the world so I won't be at any markets for a while. I'll return in September 2012
 							</p>
@@ -125,4 +125,4 @@
 			fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'))
 		;</script>	
-<?php  include "/skin/footer.php" ?>
+<?php  include "skin/footer.php" ?>

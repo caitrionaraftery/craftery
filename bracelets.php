@@ -1,4 +1,4 @@
-<?php  include "skin/header.php" ?>
+<?php  include "header.php" ?>
 
 				
 				<ul class="thumbnails">
@@ -73,4 +73,4 @@
 
 
 
-<?php  include "skin/footer.php" ?>
+<?php  include "footer.php" ?>

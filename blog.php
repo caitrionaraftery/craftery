@@ -1,5 +1,22 @@
-<?php  include "skin/header.php" ?>
+<?php  include "header.php" ?>
 
-<script src="http://feeds.feedburner.com/CrafteryJewellery?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/CrafteryJewellery"></a><br/>Powered by FeedBurner</p> </noscript>
-
-<?php  include "skin/footer.php" ?>
+<div class="hero-unit">
+	<div align="center">
+<h1>Craftery Blog</h1>
+<p><a href="http://craftery-ie.tumblr.com/rss">RSS Feed</a></p>
+<hr/>
+</div>
+ <script type="text/javascript" src="http://craftery-ie.tumblr.com/js"></script> 
+<!--
+<script type="text/javascript" src="http://craftery-ie.tumblr.com/api/read/json"></script>	
+	
+<script type="text/javascript">
+    // The variable "tumblr_api_read" is now set.
+    document.write(
+        '<a href="' + tumblr_api_read[1][0]['url'] + 
+        '">Most recent Tumblr post</a>'
+    );
+</script>
+-->
+</div>
+<?php  include "footer.php" ?>

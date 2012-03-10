@@ -1,7 +1,13 @@
 <hr>
 			
 			<footer>
-				<p>&copy;<?php print(Date("Y")); ?> Craftery.ie</p>
+				<p>	
+				<div class="fb-like" data-href="http://www.facebook.com/craftery.ie" data-send="false" data-layout="button_count" data-width="30" data-show-faces="false">
+						
+
+						</div>
+				&copy;<?php print(Date("Y")); ?> Craftery.ie
+				</p>
 			</footer>
 
 		</div> <!-- /container -->

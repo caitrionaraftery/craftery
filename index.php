@@ -1,75 +1,9 @@
-<?php  include "skin/header.php" ?>
+<?php  include "header.php" ?>
 
-			<div class="container">
-<!--
-				<div class="row-fluid">
-				<ul class="thumbnails">
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main1.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main2.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main3.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main4.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main5.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main6.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main7.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main8.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main9.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main10.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main11.jpg">
-						</div>
-					</li>
-					<li class="span1">
-						<div class="thumbnail">
-							<img src="images/main/main12.jpg">
-						</div>
-					</li>
-				</ul>
-</div>
+			<div class="hero-unit">
 
--->
 
-<div class="row-fluid">
+			<div class="row-fluid">
 					<div class="span8">
 					<p>
 					<strong>Craftery Jewellery </strong>is based in Dublin and offers a range of hand crafted jewellery. The collection offers bracelets, necklaces, earrings. I also offer a service to create custom made pieces of jewellery to complete an outfit or as a special gift. 
@@ -94,11 +28,12 @@
 					<div class="span4">
 						<div class="well">
 
-
-						<div class="fb-like" data-href="http://www.facebook.com/craftery.ie" data-send="false" data-layout="button_count" data-width="30" data-show-faces="false">
+					<img src="images/rss.png" alt="rss feed" title="rss feed"/>
+					<img src="images/facebook.png" alt="facebook" title="facebook">
+					<img src="images/twitter.png" alt="twitter" title="twitter"/>
+					<p>
 						
-
-						</div>
+					</p>
 						
 						
 						</div>
@@ -125,4 +60,4 @@
 			fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'))
 		;</script>	
-<?php  include "skin/footer.php" ?>
+<?php  include "footer.php" ?>

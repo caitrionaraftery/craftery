@@ -7,7 +7,7 @@
 		<link href="css/bootstrap.css" rel="stylesheet">
 		<link href="css/bootstrap-responsive.css" rel="stylesheet">
 	    <link href="js/google-code-prettify/prettify.css" rel="stylesheet">
-		<link href="css/lavish/lavish4.css" rel="stylesheet">
+		<link href="css/lavish/lavish9.css" rel="stylesheet">
 		<link href="css/site.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
 
@@ -34,13 +34,15 @@
 
 					</span>					
 					<ul class="nav pull-right">
-					<!--	<li><a href="index.php">Home</a></li> -->
 						<li><a href="necklaces.php">Necklaces</a></li>
 						<li><a href="bracelets.php">Bracelets</a></li>
 						<li><a href="earrings.php">Earrings</a></li>
 						<li><a href="sets.php">Sets</a></li>
-						<li><a href="blog.php">Blog/News</a></li>
+						<li class="divider-vertical"></li>
+						<li><a href="blog.php">Blog</a></li>
 						<li><a href="contact.php">Contact</a></li>
+						<li class="divider-vertical"></li>
+						<li><a href="index.php">Home</a></li>
 					<li>
 					
 

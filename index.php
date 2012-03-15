@@ -6,7 +6,7 @@
 			<div class="row-fluid">
 					<div class="span8">
 					<p>
-					<strong>Craftery Jewellery </strong>is based in Dublin and offers a range of hand crafted jewellery. The collection offers bracelets, necklaces, earrings. I also offer a service to create custom made pieces of jewellery to complete an outfit or as a special gift. 
+					<strong>Craftery </strong>hand crafted jewellery is based in Dublin and offers a range of hand crafted jewellery. The collection offers bracelets, necklaces, earrings. I also offer a service to create custom made pieces of jewellery to complete an outfit or as a special gift. 
 					</p>
 
 					<p>Please take some time to have a look around the site. If there are any pieces you are interested in buying you can email me at caitriona@craftery.ie. Please provide the reference number of the piece you like in your message.
@@ -28,20 +28,22 @@
 					<div class="span4">
 						<div class="well">
 
-					<img src="images/rss.png" alt="rss feed" title="rss feed"/>
-					<img src="images/facebook.png" alt="facebook" title="facebook">
-					<img src="images/twitter.png" alt="twitter" title="twitter"/>
+					<img src="images/icons/default/32/rss.png" title="" alt=""/>	
+					<img src="images/icons/default/32/facebook.png" title="" alt=""/>
+					<img src="images/icons/default/32/twitter.png" title="" alt=""/>
+					<img src="images/icons/default/32/tumblr.png" title="" alt=""/>
+					<img src="images/icons/default/32/etsy.png" title="" alt=""/>
 					<p>
-						
+						<div class="fb-like" data-href="http://www.facebook.com/craftery.ie" data-send="false" data-layout="button_count" data-width="30" data-show-faces="false">
+						</div>
 					</p>
-						
-						
 						</div>
 						<div class="well">
 							<h4 >News</h4>
 							<p>
 								I've taken a year out to go travel the world so I won't be at any markets for a while. I'll return in September 2012
 							</p>
+
 						</div>
  
 						

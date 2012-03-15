@@ -7,11 +7,11 @@
 		<link href="css/bootstrap.css" rel="stylesheet">
 		<link href="css/bootstrap-responsive.css" rel="stylesheet">
 	    <link href="js/google-code-prettify/prettify.css" rel="stylesheet">
-		<link href="css/lavish8.css" rel="stylesheet">
+		<link href="css/lavish/lavish4.css" rel="stylesheet">
 		<link href="css/site.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
 
-
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="Author" content="">
 		<meta name="Keywords" content="">
 		<meta name="Description" content="">
@@ -27,7 +27,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-					<a class="brand" href="index.php">Craftery <small>Jewellery</small></a>
+					<a class="brand" href="index.php">Craftery 
+					</a>
           <div class="nav-collapse">
 					<span >
 

@@ -2,8 +2,8 @@
 
 <div class="hero-unit">
 	<div align="center">
-<h1>Craftery Blog</h1>
-<p><a href="http://craftery-ie.tumblr.com/rss">RSS Feed</a></p>
+<h1>Craftery Blog <a href="http://craftery-ie.tumblr.com/rss"><img src="images/icons/default/32/rss.png"></a></h1>
+
 <hr/>
 
 </div>

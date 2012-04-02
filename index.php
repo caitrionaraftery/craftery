@@ -1,6 +1,6 @@
 <?php  include "header.php" ?>
 
-			<div class="hero-unit">
+		
 
 
 			<div class="row-fluid">
@@ -52,7 +52,7 @@
 				</div> <!-- row -->
 				
 				
-		</div> <!-- container -->
+		
 		
 		<script>(function(d, s, id) {
 			var js, fjs = d.getElementsByTagName(s)[0];

@@ -1,8 +1,8 @@
 <?php  include "header.php" ?>
 
-<div class="hero-unit">
+
 	<div align="center">
-<h1>Craftery Blog <a href="http://craftery-ie.tumblr.com/rss"><img src="images/icons/default/32/rss.png"></a></h1>
+<h1>Craftery Blog <a href="http://craftery-ie.tumblr.com/rss"><img src="images/icons/default/16/rss.png"></a></h1>
 
 <hr/>
 
@@ -28,5 +28,5 @@ $small_post = substr($post,0,320);
 ?>
 <!-- echo '<h1>'.$title.'</h1>';
 echo '<p>'.$post.'</p>'; -->
-</div>
+
 <?php  include "footer.php" ?>

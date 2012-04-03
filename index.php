@@ -1,9 +1,12 @@
 <?php  include "header.php" ?>
 
-		
+		<h1><small>www.</small>Craftery<small>.ie  Hand Crafted Jewellery</small></h1>
+		<p>Hand Crafted Jewellery</p>
 
+		<div class="hero-unit">
+		<div class="row-fluid">
 
-			<div class="row-fluid">
+			
 					<div class="span8">
 					<p>
 					<strong>Craftery </strong>hand crafted jewellery is based in Dublin and offers a range of hand crafted jewellery. The collection offers bracelets, necklaces, earrings. I also offer a service to create custom made pieces of jewellery to complete an outfit or as a special gift. 
@@ -51,7 +54,7 @@
 					</div>
 				</div> <!-- row -->
 				
-				
+				</div> <!-- hero-unit -->
 		
 		
 		<script>(function(d, s, id) {

@@ -1,5 +1,5 @@
 <div class="container">
-<hr>
+
 			
 			<div class="footer">
 				

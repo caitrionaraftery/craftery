@@ -48,10 +48,7 @@
 						<li><a href="contact.php">Contact</a></li>
 						<li class="divider-vertical"></li>
 						<li><a href="index.php">Home</a></li>
-					<li>
 					
-
-					</li>
 					</ul> 
 </div>
 				</div> <!-- container -->

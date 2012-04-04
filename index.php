@@ -1,7 +1,7 @@
 <?php  include "header.php" ?>
 
-		<h1><small>www.</small>Craftery<small>.ie  Hand Crafted Jewellery</small></h1>
-		<p>Hand Crafted Jewellery</p>
+		<h1><small>www.</small>Craftery<small>.ie  <em>Hand Crafted Jewellery</em></small></h1>
+
 
 		<div class="hero-unit">
 		<div class="row-fluid">

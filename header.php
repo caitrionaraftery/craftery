@@ -19,6 +19,12 @@
 
 	<body>
 
+<div class="navbar navbar-fixed-heading">
+
+				<div class="container">
+					<h1><small>www.</small>Craftery<small>.ie <em>Hand Crafted Jewellery</em></small></h1>
+</div></div>					
+					
 		<div class="navbar navbar-fixed-top">
 			<div class="navbar-inner">
 				<div class="container">

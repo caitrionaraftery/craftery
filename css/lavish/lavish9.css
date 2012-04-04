@@ -92,7 +92,6 @@ body {
   line-height: 18px;
   color: #2cb3be;
   background-color: #ffffff;
-  background-image: url('../images/earrings/ear01.jpg');
 }
 a {
   color: #7f837a;
@@ -1592,7 +1591,7 @@ table .span12 {
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
-  background-color: #f5f5f5;
+  background-color: #e5eadf;
   border: 1px solid #eee;
   border: 1px solid rgba(0, 0, 0, 0.05);
   -webkit-border-radius: 4px;
@@ -2491,16 +2490,9 @@ button.btn.small, input[type="submit"].btn.small {
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
   outline: 0;
 }
-.navbar-fixed-heading {
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 1030;
-}
 .navbar-fixed-top {
   position: fixed;
-  top: 40px;
+  top: 0;
   right: 0;
   left: 0;
   z-index: 1030;
@@ -3332,7 +3324,7 @@ a.thumbnail:hover {
 .hero-unit {
   padding: 60px;
   margin-bottom: 30px;
-  background-color: #e5eadf;
+  background-color: #f5f5f5;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;

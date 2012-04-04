@@ -21,8 +21,8 @@
 
 <div class="navbar navbar-fixed-heading">
 
-				<div class="container">
-					<h1><small>www.</small>Craftery<small>.ie <em>Hand Crafted Jewellery</em></small></h1>
+				<div class="container-fluid">
+					<h1><small>www.</small>Craftery<small>.ie <em class="pull-right">Hand Crafted Jewellery</em></small></h1>
 </div></div>					
 					
 		<div class="navbar navbar-fixed-top">
@@ -33,8 +33,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-					<a class="brand" href="index.php">Craftery 
-					</a>
+					
           <div class="nav-collapse">
 					<span >
 
@@ -58,5 +57,4 @@
 				</div> <!-- container -->
 			</div> <!-- fill -->
 		</div> <!-- topbar -->
-
-		<div class="container">
+</div>

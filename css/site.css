@@ -1,5 +1,5 @@
 html, body {
- padding-top: 30px;
+ padding-top: 55px;
  font-size: 14px;
 
 }
@@ -44,4 +44,60 @@ ol {
     list-style-type: none;
 }
 
+.navbar-fixed-heading {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  background-color: #ffffff;
+}
+
+.navbar-fixed-top {
+  position: fixed;
+  top: 40px;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+h1 small {
+  font-weight: normal;
+  color: #2cb3be;
+}
+
+.thumbnails {
+  margin-left: -20px;
+  list-style: none;
+  *zoom: 1;
+}
+.thumbnails:before, .thumbnails:after {
+  display: table;
+  content: "";
+}
+.thumbnails:after {
+  clear: both;
+}
+.thumbnails > li {
+  float: left;
+  margin: 0 0 18px 20px;
+  
+}
+.thumbnail {
+  background-color: #f5f5f5;
+  display: block;
+  padding: 4px;
+  line-height: 1;
+}
+a.thumbnail:hover {
+  border-color: #7f837a;
+}
+.thumbnail > img {
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.thumbnail .caption {
+  padding: 9px;
+}
 

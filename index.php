@@ -1,13 +1,47 @@
 <?php  include "header.php" ?>
 
-		<h1><small>www.</small>Craftery<small>.ie  <em>Hand Crafted Jewellery</em></small></h1>
-
-
-		<div class="hero-unit">
+		<div class="container-fluid">
 		<div class="row-fluid">
 
-			
-					<div class="span8">
+					<div class="span3">
+			<ul class="thumbnails">
+			<li class="span5">
+				    <div class="thumbnail">
+				    	<a href="images/bracelets/b_-_1.jpg" class="thumbnail" title="I made this">
+				      <img src="images/bracelets/b_-_1.jpg" alt=""></a>
+						<h5><span class="label label-success">New</span> Thumbnail label</h5>
+						
+				        <p>This is a really nice bracelet. It's made of really pretty stones.</p>
+					</div>
+				  </li>
+				  <li class="span5">
+				    <div class="thumbnail">
+				      <a href="images/bracelets/b_-_2.jpg">
+				      <img src="images/bracelets/b_-_2.jpg" alt=""></a>
+						<h5>Thumbnail label</h5>
+				        <p>Thumbnail caption right here...</p>
+					</div>
+				  </li>
+				  <li class="span5">
+				    <div class="thumbnail">
+				     <a href="images/bracelets/b_-_3.jpg">
+				      <img src="images/bracelets/b_-_3.jpg" alt=""></a>
+						<h5>Thumbnail label</h5>
+				        <p>Thumbnail caption right here...</p>
+					</div>
+				  </li>
+
+				  <li class="span5">
+				    <div class="thumbnail">
+				      <a href="images/bracelets/b_-_4.jpg">
+				      <img src="images/bracelets/b_-_4.jpg" alt=""></a>
+						<h5>Thumbnail label</h5>
+				        <p>Thumbnail caption right here...</p>
+					</div>
+				  </li>
+</ul>
+					</div>
+					<div class="span6">
 					<p>
 					<strong>Craftery </strong>hand crafted jewellery is based in Dublin and offers a range of hand crafted jewellery. The collection offers bracelets, necklaces, earrings. I also offer a service to create custom made pieces of jewellery to complete an outfit or as a special gift. 
 					</p>
@@ -28,7 +62,7 @@
 
 					</div> <!-- span8 -->
 					
-					<div class="span4">
+					<div class="span3">
 						<div class="well">
 
 					<img src="images/icons/default/32/rss.png" title="" alt=""/>	

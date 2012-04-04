@@ -16,7 +16,7 @@ echo $count;
 echo '<br>';
 for ($i = 0; $i < $count; $i++) {
 ?>
-<div class="hero-unit">
+<div class="well">
 <?php
 	$title = $xml->posts->post[$i]->{'regular-title'};
 	$date =  $xml->posts->post[$i]->attributes()->date;

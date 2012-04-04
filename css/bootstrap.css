@@ -2487,7 +2487,7 @@ button.btn.small, input[type="submit"].btn.small {
   background-color: #222222;
 }
 .btn-navbar:active, .btn-navbar.active {
-  background-color: #080808 \9;
+  background-color: #080808;
 }
 .btn-navbar .icon-bar {
   display: block;

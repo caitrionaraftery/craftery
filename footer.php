@@ -1,12 +1,13 @@
 <div class="container">
 <hr>
 			
-			<footer>
+			<div class="footer">
+				
 				<p>	
 				
 				&copy;<?php print(Date("Y")); ?> Craftery.ie
 				</p>
-			</footer>
+							</div>
 
 		</div> <!-- /container -->
 		

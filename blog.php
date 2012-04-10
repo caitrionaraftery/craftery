@@ -9,7 +9,7 @@
 </div>
 <div class="container">
 <?php
-$request_url = 'http://craftery-ie.tumblr.com/api/read?type=post&start=0&num=20';
+$request_url = 'http://craftery-ie.tumblr.com/api/read?start=0&num=20';
 $xml = simplexml_load_file($request_url);
 
 $count = count($xml->posts->post);	

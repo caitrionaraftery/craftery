@@ -7,22 +7,27 @@
 
 
 </div>
-
+<div class="container">
 <?php
 $request_url = 'http://craftery-ie.tumblr.com/api/read?type=post&start=0&num=20';
 $xml = simplexml_load_file($request_url);
-$count = count($xml);
-echo $count;
-echo '<br>';
+
+$count = count($xml->posts->post);	
+
+
 for ($i = 0; $i < $count; $i++) {
 ?>
+
 <div class="well">
 <?php
 	$title = $xml->posts->post[$i]->{'regular-title'};
 	$date =  $xml->posts->post[$i]->attributes()->date;
-	echo '<h2>'.$title.'</h2>';
-	echo '<h4>'.$date.'</h4>';
+	$content = $xml->posts->post[$i]->{'regular-body'};
+	echo '<h2>'.$title.'<small><span class="pull-right">'.$date.'</span></small></h2>';
+	echo '<br>';
+	echo '<p>'.$content.'</p>';
 ?>
+
 </div>
 <?php
 }
@@ -30,4 +35,5 @@ for ($i = 0; $i < $count; $i++) {
 
 ?>
 
-<?php  include "footer.php" ?>
+
+</div>

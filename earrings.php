@@ -1,6 +1,6 @@
 <?php  include "header.php" ?>
 
-
+<div class="container">
 
 <ul class="thumbnails">
 	<li class="span4">
@@ -238,6 +238,4 @@
 
 </ul>
 
-		
-
-<?php  include "footer.php" ?>
+</div>	

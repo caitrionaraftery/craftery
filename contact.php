@@ -2,5 +2,3 @@
 
 				
 				
-
-<?php  include "footer.php" ?>

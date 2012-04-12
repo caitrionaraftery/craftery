@@ -56,12 +56,7 @@
 					<div class="span3">
 						<div class="well">
 
-					<img src="images/icons/default/32/rss.png" title="" alt=""/>	
-					<img src="images/icons/default/32/facebook.png" title="" alt=""/>
-					<img src="images/icons/default/32/twitter.png" title="" alt=""/>
-					<img src="images/icons/default/32/tumblr.png" title="" alt=""/>
-					<img src="images/icons/default/32/etsy.png" title="" alt=""/>
-					<img src="images/icons/default/32/email.png" title="" alt=""/>
+					<?php  include "social_icons.php" ?>
 					<p>
 						<div class="fb-like" data-href="http://www.facebook.com/craftery.ie" data-send="false" data-layout="button_count" data-width="30" data-show-faces="false">
 						</div>
@@ -91,3 +86,4 @@
 			fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'))
 		;</script>	
+<?php  include "footer.php" ?>

@@ -1,14 +1,14 @@
 <div class="container">
 
 			
-			<div class="footer">
+		<!--	<div class="footer">
 				
 				<p>	
 				
 				&copy;<?php print(Date("Y")); ?> Craftery.ie
 				</p>
 							</div>
-
+-->
 		</div> <!-- /container -->
 		
 	<!--scripts-->
@@ -22,3 +22,5 @@
 	<script src="js/bootstrap-collapse.js"></script>
 	</body>
 </html>
+
+

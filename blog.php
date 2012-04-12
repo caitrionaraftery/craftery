@@ -8,7 +8,12 @@
 
 </div>
 <div class="container">
+
+
+
 <?php
+
+
 $request_url = 'http://craftery-ie.tumblr.com/api/read?start=0&num=20';
 $xml = simplexml_load_file($request_url);
 
@@ -37,3 +42,4 @@ for ($i = 0; $i < $count; $i++) {
 
 
 </div>
+<?php  include "footer.php" ?>

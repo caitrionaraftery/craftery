@@ -35,3 +35,5 @@ Enter your message here
 </form>
 
 </div>
+
+<?php  include "footer.php" ?>

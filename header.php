@@ -24,35 +24,27 @@
 
 				<div class="container-fluid">
 					<h1><small>www.</small>Craftery<small>.ie <em class="pull-right">Hand Crafted Jewellery</em></small></h1>
-</div></div>					
+</div>
+</div>					
 					
 		<div class="navbar navbar-fixed-top">
 			<div class="navbar-inner">
 				<div class="container">
-		  <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-					
-          <div class="nav-collapse">
-					<span >
 
-					</span>					
+					<ul class="nav pull-left">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="http://blog.craftery.ie">Blog</a></li>
+						<li><a href="contact.php">Contact</a></li>
+						<li><a href="about.php">About</a></li>
+					</ul>
+				
 					<ul class="nav pull-right">
 						<li><a href="necklaces.php">Necklaces</a></li>
 						<li><a href="bracelets.php">Bracelets</a></li>
 						<li><a href="earrings.php">Earrings</a></li>
 						<li><a href="sets.php">Sets</a></li>
-						<li class="divider-vertical"></li>
-						<li><a href="blog.php">Blog</a></li>
-						<li><a href="contact.php">Contact</a></li>
-						<li class="divider-vertical"></li>
-						<li><a href="index.php">Home</a></li>
-					
 					</ul> 
-</div>
+
 				</div> <!-- container -->
 			</div> <!-- fill -->
 		</div> <!-- topbar -->
-</div>

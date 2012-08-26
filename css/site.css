@@ -1,5 +1,5 @@
 html, body {
- padding-top: 55px;
+ padding-top: 60px;
  font-size: 14px;
 
 }
@@ -14,8 +14,6 @@ html, body {
 .hero-unit h1 {
   margin-bottom: 0;
   font-size: 60px;
-  line-height: 1;
-  letter-spacing: -1px;
 }
 .hero-unit p {
   font-size: 16px;
@@ -24,107 +22,28 @@ html, body {
 }
 
 
-.tumblr_title {
-		font-size: 35px;
-		padding-bottom: 10px;
-		padding-top: 10px;
-	}
-	
-	.tumblr_body {
-		line-height: 1.5em;
-		font-size: 18px;
-		padding-bottom: 20px;
-	}
-	
-	.tumblr_caption {
-		font-size: 12px;
-	}
-		
-ol {
-    list-style-type: none;
-}
-
 .navbar-fixed-heading {
   position: fixed;
   top: 0;
+  height: 45px;
   right: 0;
   left: 0;
   z-index: 1030;
-  background-color: #ffffff;
+  background-color: #f5f5f5;
+  padding-top: 5px;
 }
 
 .navbar-fixed-top {
   position: fixed;
-  top: 40px;
+  top: 45px;
   right: 0;
   left: 0;
   z-index: 1030;
-}
-.footer {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  z-index: 1020;
-  padding-top: 10px;
-  padding-left: 5px;
-  color: #e5eadf;
-  background-color: #28a3ad;
-  background-image: -moz-linear-gradient(top, #2cb3be, #228c95);
-  background-image: -ms-linear-gradient(top, #2cb3be, #228c95);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#2cb3be), to(#228c95));
-  background-image: -webkit-linear-gradient(top, #2cb3be, #228c95);
-  background-image: -o-linear-gradient(top, #2cb3be, #228c95);
-  background-image: linear-gradient(top, #2cb3be, #228c95);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2cb3be', endColorstr='#228c95', GradientType=0);
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
-  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
 }
 
 
 h1 small {
   font-weight: normal;
-  color: #2cb3be;
 }
 
-.thumbnails {
-  margin-left: -20px;
-  list-style: none;
-  *zoom: 1;
-}
-.thumbnails:before, .thumbnails:after {
-  display: table;
-  content: "";
-}
-.thumbnails:after {
-  clear: both;
-}
-.thumbnails > li {
-  float: left;
-  margin: 0 0 18px 20px;
-  
-}
-.thumbnail {
-  background-color: #f5f5f5;
-  display: block;
-  padding: 4px;
-  line-height: 1;
-}
-a.thumbnail:hover {
-  border-color: #7f837a;
-}
-.thumbnail > img {
-  display: block;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
-.thumbnail .caption {
-  padding: 9px;
-}
 

@@ -8,7 +8,7 @@
 		<link href="css/bootstrap.css" rel="stylesheet">
 		<link href="css/bootstrap-responsive.css" rel="stylesheet">
 	    <link href="js/google-code-prettify/prettify.css" rel="stylesheet">
-		<link href="css/lavish/lavish9.css" rel="stylesheet">
+		<link href="css/lavish/lavish.css" rel="stylesheet">
 		<link href="css/site.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
 
@@ -23,7 +23,7 @@
 <div class="navbar navbar-fixed-heading">
 
 				<div class="container-fluid">
-					<h1><small>www.</small>Craftery<small>.ie <em class="pull-right">Hand Crafted Jewellery</em></small></h1>
+					<h1><small>www.</small>Craftery<small>.ie</small> <em><div class="pull-right"><small>Hand Crafted Jewellery</small></div></em></h1>
 </div>
 </div>					
 					

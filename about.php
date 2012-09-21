@@ -28,24 +28,10 @@
 										<div class="span3">
 
 					<?php  include "social_icons.php" ?>
-					<p>
-						<div class="fb-like" data-href="http://www.facebook.com/craftery.ie" data-send="false" data-layout="button_count" data-width="30" data-show-faces="false">
-						</div>
-					</p>
-											
-
-
 	
 </div>
 </div>
 </div>
 </div>
-<script>(function(d, s, id) {
-			var js, fjs = d.getElementsByTagName(s)[0];
-			if (d.getElementById(id)) return;
-			js = d.createElement(s); js.id = id;
-			js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
-			fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'))
-		;</script>
+
 <?php  include "footer.php" ?>

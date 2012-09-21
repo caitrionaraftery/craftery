@@ -1,76 +1,119 @@
 <?php  include "header.php" ?>
 
-		<div class="container">		
-				<ul class="thumbnails">
-				  <li class="span4">
-				    <div class="thumbnail">
-				    	<a href="images/bracelets/b_-_1.jpg" class="thumbnail" title="I made this">
-				      <img src="images/bracelets/b_-_1.jpg" alt=""></a>
-						<h5><span class="label label-success">New</span> Thumbnail label</h5>
-						
-				        <p>This is a really nice bracelet. It's made of really pretty stones.</p>
-					</div>
-				  </li>
-				  <li class="span4">
-				    <div class="thumbnail">
-				      <a href="images/bracelets/b_-_2.jpg">
-				      <img src="images/bracelets/b_-_2.jpg" alt=""></a>
-						<h5>Thumbnail label</h5>
-				        <p>Thumbnail caption right here...</p>
-					</div>
-				  </li>
-				  <li class="span4">
-				    <div class="thumbnail">
-				     <a href="images/bracelets/b_-_3.jpg">
-				      <img src="images/bracelets/b_-_3.jpg" alt=""></a>
-						<h5>Thumbnail label</h5>
-				        <p>Thumbnail caption right here...</p>
-					</div>
-				  </li>
-				  </ul>
-				  <ul class="thumbnails">
-				  <li class="span4">
-				    <div class="thumbnail">
-				      <a href="images/bracelets/b_-_4.jpg">
-				      <img src="images/bracelets/b_-_4.jpg" alt=""></a>
-						<h5>Thumbnail label</h5>
-				        <p>Thumbnail caption right here...</p>
-					</div>
-				  </li>
-				  <li class="span4">
-				    <div class="thumbnail">
-				      <a href="images/bracelets/b_-_5.jpg">
-				      <img src="images/bracelets/b_-_5.jpg" alt=""></a>
-						<h5>Thumbnail label</h5>
-				        <p>Thumbnail caption right here...</p>
-					</div>
-				  </li>
-				  <li class="span4">
-				    <div class="thumbnail">
-				      <a href="images/bracelets/b_-_6.jpg">
-				      <img src="images/bracelets/b_-_6.jpg" alt=""></a>
-						<h5>Thumbnail label</h5>
-				        <p>Thumbnail caption right here...</p>
-					</div>
-				  </li>
-				  <li class="span4">
-				    <div class="thumbnail">
-				      <a href="images/bracelets/b_-_7.jpg">
-				      <img src="images/bracelets/b_-_7.jpg" alt=""></a>
-						<h5>Thumbnail label</h5>
-				        <p>Thumbnail caption right here...</p>
-					</div>
-				  </li>
-				  <li class="span4">
-				    <div class="thumbnail">
-				      <a href="images/bracelets/b_-_8.jpg">
-				      <img src="images/bracelets/b_-_8.jpg" alt=""></a>
-						<h5>Thumbnail label</h5>
-				        <p>Thumbnail caption right here...</p>
-					</div>
-				  </li>
-				</ul>
-</div>
+
+<div class="container ">
+	
+	<?php  include "sales-info.php" ?>
+	
+
+<ul class="thumbnails">
+	<li class="box span6">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/01-02-P1100445.JPG" class="thumbnail" title="item: b-011">
+		  	<img src="images/collections/bracelets/01-02-P1100445.JPG"></a>
+			<h5>item: b-011</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span3">
+		<div class="thumbnail">
+		 <a href="images/collections/bracelets/02-03-P1100446.JPG" class="thumbnail" title="item: b-010">
+		  	<img src="images/collections/bracelets/02-03-P1100446.JPG"></a>
+			<h5>item: b-010</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	<li class="span3">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/03-04-P1100447.JPG" class="thumbnail" title="item: b-009">
+		  	<img src="images/collections/bracelets/03-04-P1100447.JPG"></a>
+			<h5>item: b-009</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+
+	<li class="span3">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/04-05-P1100448.JPG" class="thumbnail" title="item: b-008">
+		  	<img src="images/collections/bracelets/04-05-P1100448.JPG"></a>
+			<h5>item: b-008</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	<li class="span3">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/05-06-P1100450.JPG" class="thumbnail" title="item: b-007">
+		  	<img src="images/collections/bracelets/05-06-P1100450.JPG"></a>
+			<h5>item: b-007</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/06-07-P1100451.JPG" class="thumbnail" title="item: b-006">
+		  	<img src="images/collections/bracelets/06-07-P1100451.JPG"></a>
+			<h5>item: b-006</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/07-08-P1100452.JPG" class="thumbnail" title="item: b-005">
+		  	<img src="images/collections/bracelets/07-08-P1100452.JPG"></a>
+			<h5>item: b-005</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		 <a href="images/collections/bracelets/08-12-P1100453.JPG" class="thumbnail" title="item: b-004">
+		  	<img src="images/collections/bracelets/08-12-P1100453.JPG"></a>
+			<h5>item: b-004</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/09-13-P1100454.JPG" class="thumbnail" title="item: b-003">
+		  	<img src="images/collections/bracelets/09-13-P1100454.JPG"></a>
+			<h5>item: b-003</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/10-09-P1100455.JPG" class="thumbnail" title="item: b-002">
+		  	<img src="images/collections/bracelets/10-09-P1100455.JPG"></a>
+			<h5>item: b-002</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/11-10-P1100456.JPG" class="thumbnail" title="item: b-001">
+		  	<img src="images/collections/bracelets/11-10-P1100456.JPG"></a>
+			<h5>item: b-001</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/bracelets/12-11-P1100457.JPG" class="thumbnail" title="item: b-000">
+		  	<img src="images/collections/bracelets/12-11-P1100457.JPG"></a>
+			<h5>item: b-000</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+</ul>
 
 
+</div>	
+	
 <?php  include "footer.php" ?>

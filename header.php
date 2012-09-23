@@ -14,6 +14,7 @@
 	    <link href="js/google-code-prettify/prettify.css" rel="stylesheet">
 		<link href="css/lavish/lavish11.css" rel="stylesheet">
 		<link href="css/site.css" rel="stylesheet">
+		<link href="css/carousel.css" rel="stylesheet"/>
 		<link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
 	</head>
 

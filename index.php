@@ -15,54 +15,10 @@
 	
 	<br>									
 					
-					
-					
-					<!-- carousel -->
-<!-- 
-					
-<div id="carousel" class="carousel">
 
-  <div class="carousel-inner">
-
-    <div class="item active">
-      <img class="img-circle" src="images/collections/necklaces/general/02-02-P1100339.JPG" />
-    </div>
-
-    <div class="item">
-      <img class="img-circle" src="images/collections/necklaces/general/03-03-P1100340.JPG" />
-    </div>
-    
-    <div class="item">
-      <img class="img-circle" src="images/collections/necklaces/general/05-05-P1100343.JPG" />
-    </div>
-    
-    <div class="item">
-      <img class="img-circle" src="images/collections/necklaces/general/06-06-P1100345.JPG" />
-    </div>
-
-    
-  </div>
-
-  
-	
-  </div>
-
--->
 					<!-- end carousel -->
 
-<div class="span1"></div>
 
-<div class="span3">
-      <img class="img-circle" src="images/collections/necklaces/general/05-05-P1100343.JPG" />
-    </div>
-
-    <div class="span3">
-      <img class="img-circle" src="images/collections/necklaces/general/02-02-P1100339.JPG" />
-    </div>
-    
-    <div class="span3">
-      <img class="img-circle" src="images/collections/necklaces/general/06-06-P1100345.JPG" />
-    </div>
 
 
 					</div> <!-- span8 -->
@@ -85,23 +41,26 @@
 					</div>
 				</div> <!-- row -->
 				
-				</div> <!-- hero-unit -->
-		</div>
-		
-		
-
-
-  
-
-
-<script>
- (function(){
+				
 	
-	$('.carousel').carousel({
-  interval: 2000
-})
-});
-</script>
+				
+				
+				</div> <!-- hero-unit -->
+				
+							<div class="row">
+					<div class="span4">
+      <img class="img-polaroid" src="images/collections/necklaces/general/05-05-P1100343.JPG" />
+    </div>
+
+    <div class="span4">
+      <img class="img-polaroid" src="images/collections/necklaces/general/02-02-P1100339.JPG" />
+    </div>
+    
+    <div class="span4">
+      <img class="img-polaroid" src="images/collections/necklaces/general/06-06-P1100345.JPG" />
+    </div>
+				</div>
+		</div>
 	
 
 <?php include "statcounter.php" ?>

@@ -30,7 +30,9 @@
 					<?php  include "social_icons.php" ?>
 	
 </div>
+
 </div>
+
 </div>
 </div>
 

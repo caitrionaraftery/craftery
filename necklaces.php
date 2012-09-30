@@ -6,6 +6,154 @@
 	<?php  include "sales-info.php" ?>
 
 <ul class="thumbnails">
+	
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/11-IMG_20120929_194454.jpg" class="thumbnail" title="item: n-047">
+		  	<img src="images/collections/necklaces/Sept 2012/11-IMG_20120929_194454.jpg"></a>
+			<h5>item: n-047</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/12-IMG_20120929_194627.jpg" class="thumbnail" title="item: n-047">
+		  	<img src="images/collections/necklaces/Sept 2012/12-IMG_20120929_194627.jpg"></a>
+			<h5>item: n-047</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/09-IMG_20120929_194323.jpg" class="thumbnail" title="item: n-046">
+		  	<img src="images/collections/necklaces/Sept 2012/09-IMG_20120929_194323.jpg"></a>
+			<h5>item: n-046</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/10-IMG_20120929_194338.jpg" class="thumbnail" title="item: n-046">
+		  	<img src="images/collections/necklaces/Sept 2012/10-IMG_20120929_194338.jpg"></a>
+			<h5>item: n-046</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/13-IMG_20120929_194654.jpg" class="thumbnail" title="item: n-046">
+		  	<img src="images/collections/necklaces/Sept 2012/13-IMG_20120929_194654.jpg"></a>
+			<h5>item: n-046</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/07-IMG_20120929_194232.jpg" class="thumbnail" title="item: n-045">
+		  	<img src="images/collections/necklaces/Sept 2012/07-IMG_20120929_194232.jpg"></a>
+			<h5>item: n-045</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/08-IMG_20120929_194241.jpg" class="thumbnail" title="item: n-045">
+		  	<img src="images/collections/necklaces/Sept 2012/08-IMG_20120929_194241.jpg"></a>
+			<h5>item: n-045</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/14-IMG_20120929_194738.jpg" class="thumbnail" title="item: n-045">
+		  	<img src="images/collections/necklaces/Sept 2012/14-IMG_20120929_194738.jpg"></a>
+			<h5>item: n-045</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/03-IMG_20120929_194053.jpg" class="thumbnail" title="item: n-044">
+		  	<img src="images/collections/necklaces/Sept 2012/03-IMG_20120929_194053.jpg"></a>
+			<h5>item: n-044</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>	
+
+	</ul>
+	<ul class="thumbnails">
+
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/04-IMG_20120929_194106.jpg" class="thumbnail" title="item: n-044">
+		  	<img src="images/collections/necklaces/Sept 2012/04-IMG_20120929_194106.jpg"></a>
+			<h5>item: n-044</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/16-IMG_20120929_194826.jpg" class="thumbnail" title="item: n-044">
+		  	<img src="images/collections/necklaces/Sept 2012/16-IMG_20120929_194826.jpg"></a>
+			<h5>item: n-044</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/02-IMG_20120929_194024.jpg" class="thumbnail" title="item: n-043">
+		  	<img src="images/collections/necklaces/Sept 2012/02-IMG_20120929_194024.jpg"></a>
+			<h5>item: n-043</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	</ul>
+	<ul class="thumbnails">
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/17-IMG_20120929_194850.jpg" class="thumbnail" title="item: n-043">
+		  	<img src="images/collections/necklaces/Sept 2012/17-IMG_20120929_194850.jpg"></a>
+			<h5>item: n-043</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/01-IMG_20120929_193944.jpg" class="thumbnail" title="item: n-042">
+		  	<img src="images/collections/necklaces/Sept 2012/01-IMG_20120929_193944.jpg"></a>
+			<h5>item: n-042</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+	<li class="span4">
+		<div class="thumbnail">
+		  <a href="images/collections/necklaces/Sept 2012/18-IMG_20120929_194916.jpg" class="thumbnail" title="item: n-042">
+		  	<img src="images/collections/necklaces/Sept 2012/18-IMG_20120929_194916.jpg"></a>
+			<h5>item: n-042</h5>
+			<!-- <p>Thumbnail caption right here...</p> -->
+		</div>
+	</li>
+	
+		</ul>
+	<ul class="thumbnails">
+	
 	<li class="box span6">
 		<div class="thumbnail">
 		  <a href="images/collections/necklaces/hematite/01-01-P1100338.JPG" class="thumbnail" title="item: n-041">
